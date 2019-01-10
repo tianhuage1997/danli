@@ -36,6 +36,8 @@ public class TaskManager2 {
 
     }
     public static  TaskManager2  getSingleton(){
+        System.out.println(111);
+        System.out.println(111);
         return tm;
     }
 }
